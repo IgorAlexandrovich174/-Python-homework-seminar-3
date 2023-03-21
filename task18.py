@@ -15,7 +15,6 @@ import random
 
 array = []
 sick = 0
-value = 0
 shift = 1
 flag = False
 
